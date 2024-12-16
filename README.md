@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @emaggi21
--  I’m interested in web 3.0 and blockchain technology.
--  I’m currently learning Solidity and Rust!
+-  Communication Sciences Student interested in Web3 and blockchain technology.
+-  Currently learning Solidity!
