@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @emaggi21
+- 👋 Hi, I’m Edoardo Maggi @emaggi21
 -  Communication Sciences Student interested in Web3 and blockchain technology.
 -  Currently learning Solidity!
